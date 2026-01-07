@@ -15,14 +15,14 @@ Here I share projects related to **web development, mobile apps, and academic wo
 ## 🧠 Skills & Technologies
 
 ### 💻 Programming Languages
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,php,js,java,py,dart,flutter" />
 </p>
 
 ---
 
 ### 🎨 Design Tools
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
@@ -40,8 +40,17 @@ Here I share projects related to **web development, mobile apps, and academic wo
 ---
 
 ## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jechtmhsbiakbar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jechtmhsbiakbar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jechtmhsbiakbar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jechtmhsbiakbar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
