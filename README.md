@@ -1,25 +1,50 @@
-# Hello I'm MuH Akbar, Welcome to my Repository🖐️
+# 👋 Hi, I'm MuH Akbar  
+💻 Student | Web & Mobile Developer | Tech Enthusiast  
 
- <img src="img/ep.png">
+Welcome to my GitHub profile!  
+Here I share projects related to **web development, mobile apps, and academic works**, built as part of my learning journey and personal exploration in technology 🚀
 
- ### My Skills
- #####  Languages
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,java,py,dart,flutter)](https://skillicons.dev)
+<p align="center">
+  <img src="img/ep.png" alt="Profile Banner" width="70%">
+</p>
 
-##### Design
+---
 
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white
-" />  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
-" />
+## 🧠 Skills & Technologies
 
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,java,py,dart,flutter" />
+</p>
 
-## My Contact Us
-![https://instagram.com/__kbarr](https://img.shields.io/badge/instagram-ff4655?style=for-the-badge&logo=instagram&logoColor=white
-)
-![https://whatsapp.com/+629522345868](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)
+---
 
-## Stats
+### 🎨 Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+</p>
 
-[![MuH Akbar GitHub stats](https://github-readme-stats.vercel.app/api?username=Jechtmhsbiakbar&show_icons=true&theme=tokyonight)](https://github.com/Jechtmhsbiakbar/github-readme-stats)
+---
+
+## 📬 Contact Me
+<p>
+  <a href="https://instagram.com/__kbarr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff4655?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jechtmhsbiakbar&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+✨ *“Learning by building, improving by failing.”*  
+Thanks for visiting my profile!
