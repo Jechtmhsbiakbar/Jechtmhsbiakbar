@@ -7,7 +7,7 @@ Here I share projects related to **web development, mobile apps, and academic wo
 ---
 
 <p align="center">
-  <img src="img/ep.png" alt="Profile Banner" width="70%">
+  <img src="img/ban.png" alt="Profile Banner" width="70%">
 </p>
 
 ---
