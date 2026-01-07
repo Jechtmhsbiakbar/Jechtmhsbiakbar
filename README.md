@@ -41,17 +41,8 @@ Here I share projects related to **web development, mobile apps, and academic wo
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jechtmhsbiakbar&show_icons=true&theme=tokyonight" />
-</p>
+![MuH Akbar GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jechtmhsbiakbar&show_icons=true&theme=transparent)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jechtmhsbiakbar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jechtmhsbiakbar&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
