@@ -26,11 +26,11 @@ Here I share projects related to **web development, mobile apps, and academic wo
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 </p>
 
----
+###
 
 <img src="https://raw.githubusercontent.com/Jechtmhsbiakbar/Jechtmhsbiakbar/output/snake.svg" alt="Snake animation" />
 
----
+###
 
 ## 📬 Contact Me
 <p>
