@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Tidur%20aja&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" />
 </div>
 
-# 👋 Hi, I'm MuH Akbar  
+# 👋 Hi, I'm Mh Akbar  
 💻 Student | Web & Mobile Developer | Tech Enthusiast  
 
 Welcome to my GitHub profile!  
