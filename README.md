@@ -98,15 +98,15 @@ const akbar = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jechtmhsbiakbar&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jechtmhsbiakbar&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=dracula&amp;hide_border=true&amp;rank_icon=github" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jechtmhsbiakbar&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jechtmhsbiakbar&amp;layout=compact&amp;langs_count=8&amp;theme=dracula&amp;hide_border=true" alt="Most Used Languages" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Jechtmhsbiakbar&theme=dracula&hide_border=true" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Jechtmhsbiakbar&amp;theme=dracula&amp;hide_border=true" alt="GitHub Streak" />
 
 </div>
 
